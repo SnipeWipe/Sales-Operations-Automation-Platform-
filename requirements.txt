@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+faker
+scikit-learn
+xgboost
+lightgbm
+catboost
+shap
+matplotlib
+seaborn
+altair
+joblibc
+plotly
