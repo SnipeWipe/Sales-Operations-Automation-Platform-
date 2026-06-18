@@ -252,21 +252,8 @@ streamlit run app.py
 
 ---
 
-## Resume Highlights
-
-- Developed an end-to-end Sales Operations Automation Platform using Python, SQL, SQLite, and Streamlit.
-- Built interactive dashboards for lead allocation, pipeline monitoring, SLA compliance, and sales productivity analytics.
-- Automated business reporting workflows and KPI tracking for operational decision-making.
-- Designed data pipelines and reporting solutions to improve sales visibility and stakeholder reporting.
-- Implemented performance monitoring dashboards supporting revenue analysis and operational efficiency.
-
----
-
 ## Author
 
 **Akhilesh Pal**
 
 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
-
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
