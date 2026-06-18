@@ -257,3 +257,6 @@ streamlit run app.py
 **Akhilesh Pal**
 
 Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast
+
+GitHub: https://github.com/SnipeWipe 
+Resume: https://acesse.one/oavhgh8
